@@ -1,0 +1,9 @@
+{
+	"id": "positive_negative",
+	"version": "1.0",
+	"description": "Functions to check if a number is positive or negative",
+	"categories": [
+		"security"
+	],
+	"compatible_from": "2017.3.12"
+}
